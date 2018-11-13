@@ -1,2 +1,2 @@
 # G10_Raspberry_Pi_SNM
-Sylvain Nicolas Melvin
+Sylvain Mace / Nicolas Laubé / Melvin Bicho 
