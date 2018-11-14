@@ -61,3 +61,5 @@ load_and_display_image("C:/Users/melvi/Coding Weeks/G10_Raspberry_Pi_SNM/facerec
     plt.show()
 
 process_image_2(filepath)
+print('pas ok')
+print(" mais OKKKKKKKKKKKKKKKKKKKKK")
