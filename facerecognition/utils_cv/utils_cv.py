@@ -59,3 +59,4 @@ def process_image_2(filepath):
     plt.show()
 
 process_image_2(filepath)
+print('pas ok')
