@@ -1,4 +1,9 @@
-
+#################################
+# Nicolas LAUBE
+# Sylvain MACE
+# Melvin BICHO
+# package utilitaire pour le projet
+#####################################
 import unittest
 from utils_cv.py import *
 
