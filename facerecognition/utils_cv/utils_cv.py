@@ -60,3 +60,4 @@ def process_image_2(filepath):
 
 process_image_2(filepath)
 print('pas ok')
+print(" mais OKKKKKKKKKKKKKKKKKKKKK")
