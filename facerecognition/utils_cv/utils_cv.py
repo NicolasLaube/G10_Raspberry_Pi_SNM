@@ -9,7 +9,7 @@ import os
 from matplotlib import pyplot as plt
 import numpy as np
 
-filepath = os.path.expanduser('~') + "/G10_Raspberry_Pi_SNM/facerecognition/Data/tetris_blocks.png"
+filepath = "../Data/tetris_blocks.png"
 
 
 def load_and_display_image(filepath):
