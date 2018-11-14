@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3ad1c89-f94f-4b02-963a-2ef1e989425a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/facerecognition/utils_cv/test_utils_cv.py" beforeDir="false" afterPath="$PROJECT_DIR$/facerecognition/utils_cv/test_utils_cv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/facerecognition/utils_cv/utils_cv.py" beforeDir="false" afterPath="$PROJECT_DIR$/facerecognition/utils_cv/utils_cv.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-892712368">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1608" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1608" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/facerecognition/utils_cv/test_utils_cv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" selection-end-line="14" />
+              <folding>
+                <element signature="e#1#16#0" expanded="true" />
+                <marker date="1542185022993" expanded="true" signature="103:109" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/facerecognition/utils_cv/utils_cv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+              <folding>
+                <element signature="e#154#164#0" expanded="true" />
+                <marker date="1542189024042" expanded="true" signature="310:311" ph="..." />
+                <marker date="1542189024042" expanded="true" signature="310:315" ph="..." />
+                <marker date="1542189024042" expanded="true" signature="675:676" ph="..." />
+                <marker date="1542189024042" expanded="true" signature="675:680" ph="..." />
+                <marker date="1542189024042" expanded="true" signature="1385:1390" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/facerecognition/test_open_cv.py" />
+        <option value="$PROJECT_DIR$/facerecognition/utils_cv/test_utils_cv.py" />
+        <option value="$PROJECT_DIR$/facerecognition/utils_cv/utils_cv.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="20" />
+    <option name="width" value="1535" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="G10_Raspberry_Pi_SNM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="G10_Raspberry_Pi_SNM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="G10_Raspberry_Pi_SNM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="G10_Raspberry_Pi_SNM" type="462c0819:PsiDirectoryNode" />
+              <item name="facerecognition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="G10_Raspberry_Pi_SNM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="G10_Raspberry_Pi_SNM" type="462c0819:PsiDirectoryNode" />
+              <item name="facerecognition" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="G10_Raspberry_Pi_SNM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="G10_Raspberry_Pi_SNM" type="462c0819:PsiDirectoryNode" />
+              <item name="facerecognition" type="462c0819:PsiDirectoryNode" />
+              <item name="facerecognition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="G10_Raspberry_Pi_SNM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="G10_Raspberry_Pi_SNM" type="462c0819:PsiDirectoryNode" />
+              <item name="facerecognition" type="462c0819:PsiDirectoryNode" />
+              <item name="utils_cv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="G10_Raspberry_Pi_SNM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.utils_cv">
+    <configuration name="utils_cv" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="G10_Raspberry_Pi_SNM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/facerecognition/utils_cv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/facerecognition/utils_cv/utils_cv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_utils_cv.Utils_test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="G10_Raspberry_Pi_SNM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/facerecognition/utils_cv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_utils_cv.Utils_test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_open_cv.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="G10_Raspberry_Pi_SNM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/facerecognition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/facerecognition/test_open_cv.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_utils_cv.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="G10_Raspberry_Pi_SNM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/facerecognition/utils_cv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/facerecognition/utils_cv/test_utils_cv.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest in test_open_cv.py" />
+      <item itemvalue="Python.utils_cv" />
+      <item itemvalue="Python tests.pytest in test_utils_cv.py" />
+      <item itemvalue="Python tests.pytest for test_utils_cv.Utils_test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.utils_cv" />
+        <item itemvalue="Python tests.pytest for test_utils_cv.Utils_test" />
+        <item itemvalue="Python tests.pytest in test_utils_cv.py" />
+        <item itemvalue="Python tests.pytest in test_open_cv.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_open_cv_py - 2018.11.13 at 15h 53m 46s.xml">
+      <configuration name="pytest in test_open_cv.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_utils_cv_py - 2018.11.14 at 09h 42m 51s.xml">
+      <configuration name="pytest in test_utils_cv.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_utils_cv_Utils_test - 2018.11.14 at 09h 43m 43s.xml">
+      <configuration name="pytest for test_utils_cv.Utils_test" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19629875" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38624337" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19629875" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38624337" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/facerecognition/test_1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facerecognition/test_open_cv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facerecognition/utils_cv/test_utils_cv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="14" />
+          <folding>
+            <element signature="e#1#16#0" expanded="true" />
+            <marker date="1542185022993" expanded="true" signature="103:109" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facerecognition/utils_cv/utils_cv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#154#164#0" expanded="true" />
+            <marker date="1542189024042" expanded="true" signature="310:311" ph="..." />
+            <marker date="1542189024042" expanded="true" signature="310:315" ph="..." />
+            <marker date="1542189024042" expanded="true" signature="675:676" ph="..." />
+            <marker date="1542189024042" expanded="true" signature="675:680" ph="..." />
+            <marker date="1542189024042" expanded="true" signature="1385:1390" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
