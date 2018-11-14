@@ -9,7 +9,7 @@ import os
 from matplotlib import pyplot as plt
 import numpy as np
 
-filepath = "../Data/tetris_blocks.png"
+Filepath = "../Data/tetris_blocks.png"
 
 
 def load_and_display_image(filepath):
@@ -25,7 +25,7 @@ def load_and_display_image(filepath):
         raise ValueError("L'image " + filepath + " n'existe pas")
 
 
-load_and_display_image(filepath)
+load_and_display_image(Filepath)
 
 
 def process_image(filepath):
@@ -43,7 +43,7 @@ def process_image(filepath):
     plt.title('Sobel Y'), plt.xticks([]), plt.yticks([])
     plt.show()
 
-process_image(filepath)
+process_image(Filepath)
 
 
 def process_image_2(filepath):
@@ -58,5 +58,4 @@ def process_image_2(filepath):
 
     plt.show()
 
-process_image_2(filepath)
-print("OKKKKKKKKKKKKKKKKKKKKK")
+process_image_2(Filepath)
