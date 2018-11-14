@@ -1,6 +1,5 @@
 import cv2 as cv
 
-
 def reco_webcam():
     face_cascade = cv.CascadeClassifier('Data/haarcascade_frontalface_default.xml')
     eye_cascade = cv.CascadeClassifier('Data/haarcascade_eye.xml')
@@ -24,11 +23,12 @@ def reco_webcam():
             break  # esc to quit
     cv.destroyAllWindows()
 
+
 face_cascade = cv.CascadeClassifier('Data/haarcascade_frontalface_default.xml')
 eye_cascade = cv.CascadeClassifier('Data/haarcascade_eye.xml')
 
-img = cv.imread('Data/melvin.bicho5.jpg')
-print(img.shape)
+imgG = cv.imread('Data/melvin.bicho1.jpg')
+img = cv.resize(imgG, (100, 100))
 gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
 faces = face_cascade.detectMultiScale(gray, 1.3, 5)
 for (x, y, w, h) in faces:
@@ -39,7 +39,7 @@ for (x, y, w, h) in faces:
     for (ex, ey, ew, eh) in eyes:
         cv.rectangle(roi_color,(ex,ey),(ex+ew,ey+eh),(0,255,0), 2)
 cv.imshow('img',img)
-cv.resizeWindow('img',3500,2500)
+cv.resizeWindow('img', 3500, 2500)
 
 cv.waitKey(0)
 cv.destroyAllWindows()

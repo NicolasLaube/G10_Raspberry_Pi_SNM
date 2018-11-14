@@ -4,13 +4,11 @@
 # Melvin BICHO
 # package utilitaire pour le projet
 #####################################
-'''
+
 import cv2
 import matplotlib.pyplot as plt
-import os
-import numpy as np
-'''
-'''
+import cv2 as cv
+
 Filepath = "../Data/tetris_blocks.png"
 
 
@@ -25,7 +23,7 @@ def load_and_display_image(filepath):
         raise ValueError("L'image " + filepath + " n'existe pas")
 
 
-load_and_display_image(Filepath)
+#load_and_display_image(Filepath)
 
 
 def process_image(filepath):
@@ -43,7 +41,7 @@ def process_image(filepath):
     plt.title('Sobel Y'), plt.xticks([]), plt.yticks([])
     plt.show()
 
-process_image(Filepath)
+#process_image(Filepath)
 
 
 def process_image_2(filepath):
@@ -58,9 +56,8 @@ def process_image_2(filepath):
     plt.show()
 
 
-process_image_2(Filepath)
-'''
-'''
+#process_image_2(Filepath)
+
 face_cascade = cv2.CascadeClassifier('C:/Users/melvi/Coding Weeks/G10_Raspberry_Pi_SNM/facerecognition/data/haarcascade_frontalface_default.xml')
 eye_cascade = cv2.CascadeClassifier('C:/Users/melvi/Coding Weeks/G10_Raspberry_Pi_SNM/facerecognition/data/haarcascade_eye.xml')
 img = cv2.imread('C:/Users/melvi/Coding Weeks/G10_Raspberry_Pi_SNM/facerecognition/data/melvin.bicho5.jpg')
@@ -78,14 +75,11 @@ for (x,y,w,h) in faces:
 plt.imshow(img)
 plt.show()
 
-'''
-import numpy as np
-import cv2 as cv
 
 def reco_webcam():
 
-   face_cascade = cv.CascadeClassifier('E:/Coding/xml/haarcascade_frontalface_default.xml')
-   eye_cascade = cv.CascadeClassifier('E:/Coding/xml/haarcascade_eye.xml')
+   face_cascade = cv.CascadeClassifier('Data/haarcascade_frontalface_default.xml')
+   eye_cascade = cv.CascadeClassifier('Data/haarcascade_eye.xml')
 
 #Webcam capture
    video_capture = cv.VideoCapture(0)
