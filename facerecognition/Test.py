@@ -3,7 +3,8 @@ import cv2 as cv
 import matplotlib.pyplot as plt
 face_cascade = cv.CascadeClassifier('haarcascade_frontalface_default.xml')
 eye_cascade = cv.CascadeClassifier('haarcascade_eye.xml')
-img = cv.imread('Data/melvin.belo5.png')
+img = cv.imread('Data/melvin.bicho3.jpg')
+
 
 gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
 
